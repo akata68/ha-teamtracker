@@ -21,6 +21,7 @@ LEAGUE_LIST = [
     ["BUND", "soccer", "ger.1"],
     ["CL", "soccer", "uefa.champions"], 
     ["EPL", "soccer", "eng.1"], 
+    ["TUR", "soccer", "tur.1"], 
     ["LIGA", "soccer", "esp.1"], 
     ["LIG1", "soccer", "fra.1"], 
     ["MLS", "soccer", "usa.1"], 
